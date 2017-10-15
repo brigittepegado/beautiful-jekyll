@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: brigittepegado website
+title: brigittepegado 
 
 # Short description of your site
-description: A website to begin the brigitte's blogging venture!
+description: A website a blogging venture!
 
 # --- Navigation bar options --- #
 
@@ -55,7 +55,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Brigitte Pegado
   email: "brigitte@pegado.me"
   facebook: brigittepegado  # eg. daattali
   github: brigittepegado    # eg. daattali
@@ -108,7 +108,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "@brigittepegado"
+disqus: "brigittepegado"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-108069260-1"
