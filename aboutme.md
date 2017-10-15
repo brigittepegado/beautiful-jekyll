@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Be the change you want to see in the world!
 ---
 
 My name is Brigitte Pegado. I have the following qualities:
@@ -13,4 +13,4 @@ What else do you need? - a better understanding of how to design my website
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Only the history of my web beginnings make sense to post here. To elaborate on my history and where I orginate as a person will require you to meet me elsewhere. For now here is the link of my first website [brigittepegado](http://brigittepegado.github.io) and it will answer **some** your questions.
